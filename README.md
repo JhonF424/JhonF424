@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi 👋, my name is Jhon
 #### I am System Engineer Student! :D
 ![I am System Engineer Student! :D](https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg)
