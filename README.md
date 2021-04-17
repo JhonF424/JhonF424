@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">Systems engineering student from Colombia</h3>
 
-- 🌱 I’m currently learning **Spring, SQL**
-- 📫 How to reach me **jfrancogp02@gmail.com**
-- ⚡ Fun fact **I use Linux, btw**
+- 🌱 I’m currently learning: **Spring, SQL**
+- 📫 How to reach me: **jfrancogp02@gmail.com**
+- ⚡ Fun fact: **I use Linux, btw**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,16 +18,10 @@
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-    </tr>
-    <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    </tr>
     </tr>
   </tbody>
 </table>
