@@ -12,27 +12,29 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
+        <span><strong> Java </strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span> <strong> JavaScript </strong> </span><br><br><br>
         <img height="64px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span> <strong> PHP </strong> </span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
       </td>
+    </tr>
+    <tr valign = "mid">
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span> <strong> MySQL </strong> </span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span> <strong> Git </strong> </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong> VS Code </strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
   </tbody>
