@@ -22,6 +22,18 @@
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td>
     </tr>
   </tbody>
 </table>
