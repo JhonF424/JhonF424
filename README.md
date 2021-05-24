@@ -15,12 +15,8 @@
         <span><strong> Java </strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
       <td width="25%" align="center">
-        <span> <strong> JavaScript </strong> </span><br><br><br>
-        <img height="64px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
-      </td>
-      <td width="25%" align="center">
-        <span> <strong> PHP </strong> </span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+        <span> <strong> SpringBoot </strong> </span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
       </td>
     </tr>
     <tr valign = "mid">
