@@ -28,10 +28,6 @@
         <span> <strong> Git </strong> </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong> VS Code </strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
     </tr>
   </tbody>
 </table>
