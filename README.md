@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">Systems engineering student from Colombia</h3>
 
-- 🌱 I’m currently learning: **Spring, SQL**
+- 🌱 I’m currently learning: **PHP, JavaScript**
 - 📫 How to reach me: **jfrancogp02@gmail.com**
 - ⚡ Fun fact: **I use Linux, btw**
 
@@ -18,6 +18,10 @@
         <span> <strong> SpringBoot </strong> </span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
       </td>
+      <td width="25%" align="center">
+        <span> <strong> PHP </strong> </span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+      </td>
     </tr>
     <tr valign = "mid">
       <td width="25%" align="center">
@@ -27,6 +31,14 @@
       <td width="25%" align="center">
         <span> <strong> Git </strong> </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span> <strong> JavaScript </strong> </span><br><br><br>
+        <img height="64px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+      </td>
+      <td width="25%" align="center">
+        <span> <strong> Bootstrap 5 </strong> </span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
       </td>
     </tr>
   </tbody>
