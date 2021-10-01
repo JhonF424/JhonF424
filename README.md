@@ -13,21 +13,18 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong> Java </strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-      <td width="25%" align="center">
-        <span> <strong> SpringBoot </strong> </span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+        <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
       </td>
-      <td width="25%" align="center">
-        <span> <strong> PHP </strong> </span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
-      </td>
-    </tr>
-    <tr valign = "mid">
       <td width="25%" align="center">
         <span> <strong> MySQL </strong> </span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
+      <td width="25%" align="center">
+        <span> <strong> Spring Boot </strong> </span><br><br><br>
+        <img height="64px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">
+      </td>
+    </tr>
+    <tr valign = "mid">
       <td width="25%" align="center">
         <span> <strong> Git </strong> </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -37,8 +34,18 @@
         <img height="64px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
       </td>
       <td width="25%" align="center">
-        <span> <strong> Bootstrap 5 </strong> </span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+        <span> <strong> Tailwind </strong> </span><br><br><br>
+        <img height="64px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png">
+      </td>
+    </tr>
+    <tr valign = "bot">
+      <td width="25%" align="center">
+        <span> <strong> HTML5 </strong> </span><br><br><br>
+        <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png">
+      </td>
+      <td width="25%" align="center">
+        <span> <strong> CSS3 </strong> </span><br><br><br>
+        <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png">
       </td>
     </tr>
   </tbody>
