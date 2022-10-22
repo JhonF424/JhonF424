@@ -33,10 +33,6 @@
         <span> <strong> CSS3 </strong> </span><br><br><br>
         <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png">
       </td>
-      <td width="25%" align="center">
-        <span> <strong> React </strong> </span><br><br><br>
-        <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
-      </td>
     </tr>
   </tbody>
 </table>
