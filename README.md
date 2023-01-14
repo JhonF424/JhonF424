@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">Systems engineering student from Colombia</h3>
 
-- 🌱 I’m currently learning: ****
+- 🌱 I’m currently learning: **C# / .NET Core 7**
 - 📫 How to reach me: **jfrancogp02@gmail.com**
 - ⚡ Fun fact: **I use Linux, btw**
 
