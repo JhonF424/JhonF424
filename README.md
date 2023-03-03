@@ -42,7 +42,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span> <strong> MondoDB </strong> </span><br><br><br>
+        <span> <strong> MongoDB </strong> </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
       </td>
       <td width="25%" align="center">
