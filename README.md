@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">Systems engineer student from Colombia</h3>
+<h3 align="center">Software engineer from Colombia</h3>
 
 - 📫 How to reach me: **jfrancogp02@gmail.com**
 - ⚡ Fun fact: **I use Linux, btw**
